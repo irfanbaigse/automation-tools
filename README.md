@@ -18,10 +18,10 @@ Build Scripts for Automation in Any Language
 [Setup Readme](https://github.com/irfanbaigse/automation-tools/blob/main/xgestures/XGESTURES.md)
 
 ## ZSH
-Coming soon...
+[SETUP.md](https://github.com/irfanbaigse/automation-tools/blob/main/zsh/SETUP.md)
 
 ## Java
-Coming soon...
+[SETUP.md](https://github.com/irfanbaigse/automation-tools/blob/main/java/INSTALL_JAVA.md)
 
 ## PHP
 Coming soon...
