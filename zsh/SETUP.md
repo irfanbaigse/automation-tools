@@ -12,3 +12,17 @@ Then, you can
 * move to the end of the line fn + →
 * delete a word backwards Option ⌥ + ⌫
 * delete the whole line Command ⌘ + ⌫
+
+
+https://github.com/romkatv/powerlevel10k#configuration
+
+p10k configure
+
+in ~/.zshrc file
+
+```shell
+ZSH_THEME="powerlevel10k/powerlevel10k"
+```
+
+
+
