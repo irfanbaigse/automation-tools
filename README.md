@@ -1,17 +1,13 @@
 # Automation tools
 Build Scripts for Automation in Any Language
-
-## Jenkins
-
-### Trigger Jenkins job using curl
-
-* [Deploy ReadMe](https://github.com/irfanbaigse/automation-tools/blob/main/jenkins/DEPLOY.md)
-
 ## Github
 
 ### Prefix Your Commits With Branch Name
 
 [Prefix Commit ReadMe](https://github.com/irfanbaigse/automation-tools/blob/main/git/PREFIX_COMMIT.md)
+
+### Signed Commits
+[SINGNED_COMMITS](https://github.com/irfanbaigse/automation-tools/blob/main/git/SINGNED_COMMITS.md)
 
 ## XGestures
 
@@ -28,4 +24,11 @@ Build Scripts for Automation in Any Language
 
 ## Intellij
 [SETUP.md](https://github.com/irfanbaigse/automation-tools/blob/main/intellij/SETUP.md)
+
+## Jenkins
+
+### Trigger Jenkins job using curl
+
+* [Deploy ReadMe](https://github.com/irfanbaigse/automation-tools/blob/main/jenkins/DEPLOY.md)
+
 
