@@ -12,3 +12,10 @@ vim .git/hooks/prepare-commit-msg
 ### Paste the file
 
 https://github.com/irfanbaigse/automation-tools/blob/main/git/prepare-commit-msg
+
+### Make it executable
+
+```shell
+chmod +x .git/hooks/prepare-commit-msg
+```
+
