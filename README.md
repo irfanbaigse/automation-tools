@@ -24,5 +24,8 @@ Build Scripts for Automation in Any Language
 [SETUP.md](https://github.com/irfanbaigse/automation-tools/blob/main/java/INSTALL_JAVA.md)
 
 ## PHP
-Coming soon...
+[SETUP.md](https://github.com/irfanbaigse/automation-tools/blob/main/php/SETUP.md)
+
+## Intellij
+[SETUP.md](https://github.com/irfanbaigse/automation-tools/blob/main/intellij/SETUP.md)
 
