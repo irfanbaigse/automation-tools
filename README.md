@@ -10,6 +10,8 @@ Build Scripts + Shortcuts for Automation in Any Language
 -   [ZSH](#zsh)
 -   [Java](#java)
 -   [PHP](#php)
+-   [Nodejs](#nodejs)
+-   [Mysql](#mysql)
 -   [Intellij](#intellij)
 -   [Jenkins](#jenkins)
     -   [Trigger Jenkins job using
@@ -60,3 +62,14 @@ Build Scripts + Shortcuts for Automation in Any Language
 * [Deploy ReadMe](https://github.com/irfanbaigse/automation-tools/blob/main/jenkins/DEPLOY.md)
 
 ---
+
+## Mysql
+
+[SETUP.md](https://github.com/irfanbaigse/automation-tools/blob/main/mysql/SETUP.md)
+
+---
+
+## Nodejs
+
+[SETUP.md](https://github.com/irfanbaigse/automation-tools/blob/main/nodejs/SETUP.md)
+
